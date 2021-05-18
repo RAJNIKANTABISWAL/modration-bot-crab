@@ -1,3 +1,3 @@
-exports.TOKEN = "ODQxNjI0MDcwNTY2ODM4MzM0.YJpdfw.SrYok9G9wmIN97Y9zv8YisFbKZM";
+exports.TOKEN = "";
 exports.PREFIX = "@";
 exports.OWNER_ID = "688696533088337976";
